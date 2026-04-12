@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0055AA,100:00B2FF&height=240&section=header&text=Manan%20Jani&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20React.js%20%7C%20MERN%20Stack&descAlignY=58&descSize=18&descColor=CCE8FF&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:4C1D95,100:A855F7&height=240&section=header&text=Manan%20Jani&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20React.js%20%7C%20MERN%20Stack&descAlignY=58&descSize=18&descColor=E9D5FF&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+scalable+web+applications;Open+to+Collaborations+%26+Freelance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+scalable+web+applications;Open+to+Collaborations+%26+Freelance" alt="Typing SVG" />
 
 </div>
 
@@ -10,17 +10,17 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mananjani2102&label=Profile+Views&color=00B2FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=MananJani-CG&label=Profile+Views&color=A855F7&style=flat-square)
 &nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/mananjani2102?label=Followers&style=flat-square&color=00B2FF&labelColor=0D1117)](https://github.com/mananjani2102)
+[![GitHub followers](https://img.shields.io/github/followers/MananJani-CG?label=Followers&style=flat-square&color=A855F7&labelColor=0D1117)](https://github.com/MananJani-CG)
 &nbsp;&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/mananjani2102?label=Total+Stars&style=flat-square&color=00B2FF&labelColor=0D1117)](https://github.com/mananjani2102)
+[![GitHub stars](https://img.shields.io/github/stars/MananJani-CG?label=Total+Stars&style=flat-square&color=A855F7&labelColor=0D1117)](https://github.com/MananJani-CG)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055AA,100:00B2FF&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:A855F7&height=2" width="100%" />
 
 <br/>
 
@@ -45,7 +45,7 @@ const mananJani = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055AA,100:00B2FF&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:A855F7&height=2" width="100%" />
 
 <br/>
 
@@ -58,7 +58,7 @@ const mananJani = {
 <table>
 <tr>
   <td align="center" width="150">
-    <img src="https://img.shields.io/badge/-FRONTEND-00B2FF?style=for-the-badge&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/-FRONTEND-A855F7?style=for-the-badge&labelColor=0A0A0A" />
   </td>
   <td align="left" style="padding: 12px;">
     <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="26" />&nbsp;
@@ -75,7 +75,7 @@ const mananJani = {
 
 <tr>
   <td align="center">
-    <img src="https://img.shields.io/badge/-BACKEND-0077CC?style=for-the-badge&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/-BACKEND-7C3AED?style=for-the-badge&labelColor=0A0A0A" />
   </td>
   <td align="left" style="padding: 12px;">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" height="26" />&nbsp;
@@ -88,7 +88,7 @@ const mananJani = {
 
 <tr>
   <td align="center">
-    <img src="https://img.shields.io/badge/-LANGUAGES-0055AA?style=for-the-badge&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/-LANGUAGES-6D28D9?style=for-the-badge&labelColor=0A0A0A" />
   </td>
   <td align="left" style="padding: 12px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" height="26" />&nbsp;
@@ -99,7 +99,7 @@ const mananJani = {
 
 <tr>
   <td align="center">
-    <img src="https://img.shields.io/badge/-TOOLS-003377?style=for-the-badge&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/-TOOLS-4C1D95?style=for-the-badge&labelColor=0A0A0A" />
   </td>
   <td align="left" style="padding: 12px;">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" height="26" />&nbsp;
@@ -117,7 +117,7 @@ const mananJani = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055AA,100:00B2FF&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:A855F7&height=2" width="100%" />
 
 <br/>
 
@@ -125,26 +125,26 @@ const mananJani = {
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mananjani2102&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mananjani2102&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MananJani-CG&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MananJani-CG&theme=github_dark" />
 
 <br/><br/>
 
-<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mananjani2102&theme=github_dark&utcOffset=5.5" />
+<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MananJani-CG&theme=github_dark&utcOffset=5.5" />
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=mananjani2102&hide_border=true&background=0D1117&ring=00B2FF&fire=00B2FF&currStreakLabel=00B2FF&sideLabels=C9D1D9&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0D1117" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=MananJani-CG&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0D1117" />
 
 <br/><br/>
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=mananjani2102&bg_color=0D1117&color=00B2FF&line=0088DD&point=FFFFFF&area=true&area_color=003366&hide_border=true&radius=6" />
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=MananJani-CG&bg_color=0D1117&color=A855F7&line=7C3AED&point=FFFFFF&area=true&area_color=2E1065&hide_border=true&radius=6" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055AA,100:00B2FF&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:A855F7&height=2" width="100%" />
 
 <br/>
 
@@ -158,7 +158,7 @@ const mananJani = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055AA,100:00B2FF&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:A855F7&height=2" width="100%" />
 
 <br/>
 
@@ -169,12 +169,12 @@ const mananJani = {
 <div align="center">
 
 <a href="https://manan-jani.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/manan--jani.netlify.app-Visit%20My%20Portfolio%20%E2%86%92-00B2FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=003A8C" height="44" />
+  <img src="https://img.shields.io/badge/manan--jani.netlify.app-Visit%20My%20Portfolio%20%E2%86%92-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2E1065" height="44" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:transparent,50:0055AA,100:transparent&height=2" width="50%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:transparent,50:4C1D95,100:transparent&height=2" width="50%" />
 
 <br/><br/>
 
@@ -198,4 +198,4 @@ const mananJani = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055AA,50:0088DD,100:00B2FF&height=130&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:A855F7&height=130&section=footer" width="100%" />
