@@ -169,33 +169,32 @@ const mananJani = {
 <div align="center">
 
 <a href="https://manan-jani.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/manan--jani.netlify.app-Visit%20My%20Portfolio%20%E2%86%92-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2E1065" height="44" />
+  <img src="https://img.shields.io/badge/manan--jani.netlify.app-Portfolio%20%E2%80%94%20Projects%20%7C%20Resume%20%7C%20Contact-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2E1065" height="42" />
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:transparent,50:4C1D95,100:transparent&height=2" width="50%" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/manan-jani-1a22443a3/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1F3D" height="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E0A4C" height="42" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@mananjani2102" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Watch%20Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2A0A0A" height="40" />
+  <img src="https://img.shields.io/badge/YouTube-React%20%7C%20JS%20%7C%20Web%20Dev-7C3AED?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2E1065" height="42" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:mbjani08@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2A100A" height="40" />
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3B0764" height="42" />
 </a>
 
 <br/><br/>
 
-<sub>Open to collaborations &nbsp;·&nbsp; Freelance projects &nbsp;·&nbsp; Full-time opportunities</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1065,33:4C1D95,66:7C3AED,100:A855F7&height=2" width="80%" />
+
+<br/>
+
+<sub>Open to Collaborations &nbsp;·&nbsp; Freelance Projects &nbsp;·&nbsp; Full-time Roles</sub>
 
 </div>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:A855F7&height=130&section=footer" width="100%" />
